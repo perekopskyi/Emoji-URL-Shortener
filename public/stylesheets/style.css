@@ -1,0 +1,12 @@
+.btn-primary {
+  margin-top: 20px;
+}
+.block-button {
+  margin: 15px auto;
+  display: block;
+  text-align: center;
+}
+
+#result_url:hover {
+  cursor: pointer;
+}
